@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/"},
+    "26":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/"},
+    "28":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/"},
+    "30":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/chii.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/"},
+    "32":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/riichi.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/"},
+    "34":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/"},
+    "36":{"url":"https://raw.githubusercontent.com/12332188A/tenhou/main/SE1/tumo.mp3"},
+  }
+}
